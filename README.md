@@ -1,2 +1,2 @@
-# Team-Berlin
+# Team-Berlin-React
 Repository for Team Berlin
