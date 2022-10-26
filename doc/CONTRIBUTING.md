@@ -13,7 +13,20 @@
 
 ### Naming branches
 
-- Create a separate branch based on `pre-dev` using the command `git checkout -b branch-name`
+- After forking and cloning the main branch locally.
+- Fetch all your updates from development branch `pre-dev`
+    `git fetch origin pre-dev` 
+    `git checkout pre-dev`
+
+  or Alternatively 
+
+    `git checkout -b pre-dev`
+    `git pull`
+
+  Now create your branch basing on the issue at hand or assigned using 
+    `git checkout -b branch-name`
+
+     
 - The phrasing of the branch name should reflect whether you are working on a feature, chore, or issue..
 - The customary practice is to deploy:
   - `ft` or `feature` when it is a feature or improvement branch. eg `feature-create-header-component`
