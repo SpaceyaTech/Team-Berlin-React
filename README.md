@@ -2,11 +2,33 @@
 ![](https://img.shields.io/badge/-spaceyatech-yellowgreen)
 
 # Team-Berlin-React
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Product vision](#the-challenge)
+- [Built with](#built-with)
+  - [Live Demo](#live-demo)
+  - [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#Setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-test)
+  - [Deployment](#deployment)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Authors](#authors)
+- [Contributing](#Contributing)
+- [Show your support](#Show-your-support)
+- [Acknowledgments](#acknowledgments)
+- [License](#License)
+
 The SpaceYaTech Forum provides users with the opportunity to join communities, make posts, upvote other people's posts, comment on posts, downvote posts they don't like and report posts which don't abide by the community standards.
 
 # Product Vision
 
-FOR: young africans interested in technology discussions in Africa WHO: want to find opinions and news about various topics in Africa THE: Space Ya Tech IS A web application THAT: gives a platform to young people to interact on different technology matters UNLIKE: other existing products which already exist in the market OUR PRODUCT: is open source and developed by the community for the community addressing the pain points of the African tech ecosystem.
+SpaceYaTech Forum is FOR: young africans interested in technology discussions in Africa WHO: want to find opinions and news about various topics in Africa THE: Space Ya Tech IS A web application THAT: gives a platform to young people to interact on different technology matters UNLIKE: other existing products which already exist in the market OUR PRODUCT: is open source and developed by the community for the community addressing the pain points of the African tech ecosystem.
 
 ## Built With
 
@@ -54,11 +76,6 @@ See this section for more information: [https://facebook.github.io/create-react-
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -74,10 +91,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
