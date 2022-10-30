@@ -124,6 +124,8 @@ Once you are done, click the "create pull request" button.
 
 6. Pushing additional changes. Once you have created the pull request, it will likely be reviewed and some additional fixes will be necessary. Do not create a new pull request. Rather, simply make more commits to your branch and push them up as in steps 3 and 4. They will be added to the pull request automatically. Note that although GitHub does notify people when you push new changes to a branch, many people have these notifications disabled as they can be quite noisy. So it is a good idea to make a comment on the pull request whenever you do so to notify people that it is ready to be reviewed again.
 
+See this section For more on contributing [contributing.md](https://github.com/SpaceyaTech/.github/blob/05d65ab42226f6479ab59a2209a9d128734ecbe6/CONTRIBUTING.md)
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
