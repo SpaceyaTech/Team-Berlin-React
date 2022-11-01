@@ -87,6 +87,9 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/SpaceyaTech/Team-Berlin-React/issues).
 
+# To contribute
+- check out on [contribution guideline](./doc/CONTRIBUTING.md)
+
 # Making changes
 1. Update develop. Before you make any changes, first checkout develop `git checkout develop` and pull in the latest changes ` git pull`
 
@@ -111,20 +114,22 @@ git commit
 
 5. Make a pull request. If you then go to your fork on GitHub, you should see a button to create a pull request from your branch.
 
-Things to check here are that the base fork is the upstream repo ① and the branch for the upstream repo is develop, and that the head fork is your fork ② and the branch is the branch you wish to make the pull request from.
+Things to check here are that the base fork is the upstream repo and the branch for the upstream repo is develop, and that the head fork is your fork and the branch is the branch you wish to make the pull request from.
 
-Enter a descriptive title in the title field ③. This is very important, as it is what will show up in the pull request listing and in email notifications to the people in the repo. Pull requests with undescriptive titles are more likely to be passed by. If the pull request fixes an issue, I recommend putting the issue number in the pull request description ④, not the title. People generally do not know issues by number, so a pull request that is just titled "fix for issue #1234" is more likely to be passed by, as it is unclear what it does from the title.
+Enter a descriptive title in the title field. This is very important, as it is what will show up in the pull request listing and in email notifications to the people in the repo. Pull requests with undescriptive titles are more likely to be passed by. If the pull request fixes an issue, I recommend putting the issue number in the pull request description, not the title. People generally do not know issues by number, so a pull request that is just titled "fix for issue #1234" is more likely to be passed by, as it is unclear what it does from the title.
 
-If there is more description or discussion about the pull request than what fits in the title field use the description field ④.
+If there is more description or discussion about the pull request than what fits in the title field use the description field.
 
-If the pull request fixes an issue, you can add "fixes #1234" (replace 1234 with the actual issue number) in the pull request description ④. This exact format, "fixes #1234" is important, as it will cause GitHub to automatically close the issue when the pull request is merged.
+If the pull request fixes an issue, you can add "fixes #1234" (replace 1234 with the actual issue number) in the pull request description. This exact format, "fixes #1234" is important, as it will cause GitHub to automatically close the issue when the pull request is merged.
 
 Once you are done, click the "create pull request" button.
 
 
 6. Pushing additional changes. Once you have created the pull request, it will likely be reviewed and some additional fixes will be necessary. Do not create a new pull request. Rather, simply make more commits to your branch and push them up as in steps 3 and 4. They will be added to the pull request automatically. Note that although GitHub does notify people when you push new changes to a branch, many people have these notifications disabled as they can be quite noisy. So it is a good idea to make a comment on the pull request whenever you do so to notify people that it is ready to be reviewed again.
 
-See this section For more on contributing [contributing.md](https://github.com/SpaceyaTech/.github/blob/05d65ab42226f6479ab59a2209a9d128734ecbe6/CONTRIBUTING.md)
+## Making a pull request
+- [Check out on pull request guide](./doc/pull_request_guide.md)
+
 
 ## Show your support
 
