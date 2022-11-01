@@ -1,6 +1,14 @@
 # Team-Berlin-React
 Repository for Team Berlin
 
+## To contribute 
+- check out on [contribution guideline](./doc/CONTRIBUTING.md)
+## Making a pull request 
+- [Check out on pull request guide](./doc/pull_request_guide.md) 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
