@@ -30,7 +30,7 @@ The SpaceYaTech Forum provides users with the opportunity to join communities, m
 
 # Product Vision
 
-SpaceYaTech Forum is FOR: young africans interested in technology discussions in Africa WHO: want to find opinions and news about various topics in Africa THE: Space Ya Tech IS A web application THAT: gives a platform to young people to interact on different technology matters UNLIKE: other existing products which already exist in the market OUR PRODUCT: is open source and developed by the community for the community addressing the pain points of the African tech ecosystem.
+SpaceYaTech Forum is FOR: young africans interested in technology discussions in Africa WHO: want to find opinions and news about various topics in Africa THE: Space Ya Tech IS A web application THAT: gives a platform to young people to interact on different technology matters UNLIKE: other existing products which already exist in the market OUR PRODUCT: is open source and developed by the community for the community addressing the pain points of the African tech ecosystem. [checkout product vision](https://github.com/SpaceyaTech/Team-Berlin-React/wiki/Product-Vision---Team-Berlin)
 
 ## Built With
 
@@ -87,48 +87,11 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/SpaceyaTech/Team-Berlin-React/issues).
 
+# Making a pull request
+- [Check out on pull request guide](./doc/pull_request_guide.md)
+
 # To contribute
 - check out on [contribution guideline](./doc/CONTRIBUTING.md)
-
-# Making changes
-1. Update develop. Before you make any changes, first checkout develop `git checkout develop` and pull in the latest changes ` git pull`
-
-2. Create a branch. Once you have done this, create a new branch. You should make a branch name that is short, descriptive, and unique. Some examples of good branch names are `create-header-component`, `docs-cleanup`, and `fix-footer-component`. Some examples of bad branch names are `feature`, `fix`, and `patch`.
-To create the branch, run
-`git checkout -b branch-name`
-
-(replace branch-name with the branch name you chose). This will create a new branch and check it out. You can verify this with git status.
-
-3. Make your changes and commit them. Once you have created your branch, make your changes and commit them. Remember to keep your commits atomic, that is, each commit should represent a single unit of change. Also, remember to write helpful commit messages, so that someone can understand what the commit does just from reading the message without having to read the diff.
-
-For example, at the command line, this might look like
-```
-git add filename [filename ...]
-git commit
-```
-
-4. Push up your changes. Push your changes to your fork. Do this by running
-`git push your-github-username branch-name`
-
-(replace `your-github-username` with your GitHub username and `branch-name` with the name of the branch).
-
-5. Make a pull request. If you then go to your fork on GitHub, you should see a button to create a pull request from your branch.
-
-Things to check here are that the base fork is the upstream repo and the branch for the upstream repo is develop, and that the head fork is your fork and the branch is the branch you wish to make the pull request from.
-
-Enter a descriptive title in the title field. This is very important, as it is what will show up in the pull request listing and in email notifications to the people in the repo. Pull requests with undescriptive titles are more likely to be passed by. If the pull request fixes an issue, I recommend putting the issue number in the pull request description, not the title. People generally do not know issues by number, so a pull request that is just titled "fix for issue #1234" is more likely to be passed by, as it is unclear what it does from the title.
-
-If there is more description or discussion about the pull request than what fits in the title field use the description field.
-
-If the pull request fixes an issue, you can add "fixes #1234" (replace 1234 with the actual issue number) in the pull request description. This exact format, "fixes #1234" is important, as it will cause GitHub to automatically close the issue when the pull request is merged.
-
-Once you are done, click the "create pull request" button.
-
-
-6. Pushing additional changes. Once you have created the pull request, it will likely be reviewed and some additional fixes will be necessary. Do not create a new pull request. Rather, simply make more commits to your branch and push them up as in steps 3 and 4. They will be added to the pull request automatically. Note that although GitHub does notify people when you push new changes to a branch, many people have these notifications disabled as they can be quite noisy. So it is a good idea to make a comment on the pull request whenever you do so to notify people that it is ready to be reviewed again.
-
-## Making a pull request
-- [Check out on pull request guide](./doc/pull_request_guide.md)
 
 
 ## Show your support
