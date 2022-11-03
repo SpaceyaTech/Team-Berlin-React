@@ -6,6 +6,10 @@ Repository for Team Berlin
 ## Making a pull request 
 - [Check out on pull request guide](./doc/pull_request_guide.md) 
 
+## Tech Stack
+- React
+- [ESlint & Prettier]()
+    
 
 
 
