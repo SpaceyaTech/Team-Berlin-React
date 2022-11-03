@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64a4c50b-a087-4e60-bb63-c7d180c31d68" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/doc/Prettier_Eslint-setup.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Prettier_Eslint-setup.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <workItem from="1667380464376" duration="9116000" />
       <workItem from="1667396662146" duration="4410000" />
       <workItem from="1667452363310" duration="10841000" />
-      <workItem from="1667499387967" duration="1042000" />
+      <workItem from="1667499387967" duration="1923000" />
     </task>
     <servers />
   </component>
