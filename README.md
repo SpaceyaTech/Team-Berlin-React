@@ -95,7 +95,7 @@ Contributions, issues, and feature requests are welcome!
   git add filename [filename ...]
   git commit -m "your commit message"
 ```
-5. Rebase your branch on `pre-dev`. Use the following command
+5. Rebase your branch on `pre-dev`. Use the following command `git pull origin  - - rebase pre-dev`
 
 6. Push up your changes. Do this by running `git push origin branch-name`
 
