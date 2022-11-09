@@ -107,8 +107,6 @@ Enter a descriptive title in the title field. This is very important, as it is w
 
 8. Pushing additional changes. Once you have created the pull request, it will likely be reviewed and some additional fixes will be necessary. Do not create a new pull request. Rather, simply make more commits to your branch and push them up as in steps 4, 5 and 6. They will be added to the pull request automatically.
 
-
-# Making a pull request
 - [Check out on pull request guide](./doc/pull_request_guide.md)
 
 ## Show your support
