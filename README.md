@@ -77,9 +77,9 @@ See this section for more information: [https://facebook.github.io/create-react-
 
 Contributions, issues, and feature requests are welcome!
 
-1. In order to contribute team Berlin React head over to [issues tab](https://github.com/SpaceyaTech/Team-Berlin-React/issues) and pick an issue that interest you.
+1. Head over to [issues tab](https://github.com/SpaceyaTech/Team-Berlin-React/issues) and pick an issue that interest you.
 
-2. Clone the repository to your computer. Click the green "Clone or download" button ①, and copy the url ② and type `git@github.com:SpaceyaTech/Team-Berlin.git`
+2. Clone the repository to your computer. Click the green "Clone or download" button, and copy the url and type `git@github.com:SpaceyaTech/Team-Berlin.git`
 
 3. Create a branch. Once you have done this, create a new branch. You should make a branch name that is short, descriptive, and unique. Some examples of good branch names are `create-header-component`, `docs-cleanup`, and `fix-footer-component`. Some examples of bad branch names are `feature`, `fix`, and `patch`. The branch name choice is not too important, so don't stress over it, but it is what people will use to reference your changes if they want to pull them down on their own computers to test them, so a good name will make it easier for others to understand what your branch does. In this example, the branch name is `fix-footer-component`.
 
@@ -92,7 +92,7 @@ Contributions, issues, and feature requests are welcome!
   git add filename [filename ...]
   git commit -m "your commit message"
 ```
-5. Rebase your branch on `pre-dev`. Use the following command `git pull origin  - - rebase pre-dev`
+5. Rebase your branch on `pre-dev`. Use the following command `git pull origin  --rebase pre-dev`
 
 6. Push up your changes. Do this by running `git push origin branch-name`
 
