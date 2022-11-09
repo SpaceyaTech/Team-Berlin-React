@@ -77,7 +77,7 @@ See this section for more information: [https://facebook.github.io/create-react-
 
 Contributions, issues, and feature requests are welcome!
 
-1. In order to contribute team Berlin React head over to issues tab[issues page](https://github.com/SpaceyaTech/Team-Berlin-React/issues) and pick an issue that interest you.
+1. In order to contribute team Berlin React head over to [issues tab](https://github.com/SpaceyaTech/Team-Berlin-React/issues) and pick an issue that interest you.
 
 2. Clone the repository to your computer. Click the green "Clone or download" button ①, and copy the url ② and type `git@github.com:SpaceyaTech/Team-Berlin.git`
 
