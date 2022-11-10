@@ -81,7 +81,7 @@ Contributions, issues, and feature requests are welcome!
 
 2. Clone the repository to your computer. Click the green "Clone or download" button, and copy the url and type `git@github.com:SpaceyaTech/Team-Berlin.git`
 
-3. Create a branch. Once you have done this, create a new branch. You should make a branch name that is short, descriptive, and unique. Some examples of good branch names are `create-header-component`, `docs-cleanup`, and `fix-footer-component`. Some examples of bad branch names are `feature`, `fix`, and `patch`. The branch name choice is not too important, so don't stress over it, but it is what people will use to reference your changes if they want to pull them down on their own computers to test them, so a good name will make it easier for others to understand what your branch does. In this example, the branch name is `fix-footer-component`.
+3. Once you have done this, create a new branch. You should make a branch name that is short, descriptive, and unique. Some examples of good branch names are `create-header-component`, `docs-cleanup`, and `fix-footer-component`. Some examples of bad branch names are `feature`, `fix`, and `patch`. The branch name choice is not too important, so don't stress over it, but it is what people will use to reference your changes if they want to pull them down on their own computers to test them, so a good name will make it easier for others to understand what your branch does. In this example, the branch name is `fix-footer-component`.
 
   To create the branch, run `git checkout -b branch-name`(replace branch-name with the branch name you chose). This will create a new branch and check it out. You can verify this with git status.
 
