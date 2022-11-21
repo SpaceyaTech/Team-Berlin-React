@@ -8,7 +8,7 @@
   "ignorePatterns": "./src/**, ./node_modules/**",
   "plugins": ["jest"],
   "parser": "babel-eslint",
-  "extends": ["airbnb", "plugin:import/typescript"],
+  "extends": ["airbnb", "plugin:import/typescript", "prettier"],
   "rules": {
     "react/jsx-filename-extension": 0,
     "arrow-body-style": 0,
