@@ -44,5 +44,21 @@
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.19",
     "tailwindcss": "^3.2.4"
-  }
+  },
+  "description": "![](https://img.shields.io/badge/-spaceyatech-yellowgreen)",
+  "main": "postcss.config.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceyaTech/Team-Berlin-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpaceyaTech/Team-Berlin-React/issues"
+  },
+  "homepage": "https://github.com/SpaceyaTech/Team-Berlin-React#readme"
 }
