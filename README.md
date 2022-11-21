@@ -43,10 +43,11 @@ SpaceYaTech Forum is FOR: young africans interested in technology discussions in
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Typescript](https://www.typescriptlang.org/docs/handbook/intro.html)
-![React](https://facebook.github.io/create-react-app/docs/getting-started)
-![ESLint](https://eslint.org/docs/latest/user-guide/getting-started)
-![Git hooks](https://git-scm.com/docs/githooks)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Git-Hooks](https://img.shields.io/badge/githooks-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+!
 ![Husky](https://typicode.github.io/husky/#/)
 
 ## Live Demo (if available)
