@@ -1,4 +1,3 @@
-
 ![](https://img.shields.io/badge/-spaceyatech-yellowgreen)
 [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
@@ -41,15 +40,18 @@ SpaceYaTech Forum is FOR: young africans interested in technology discussions in
 
 ## Built With
 
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Typescript](https://www.typescriptlang.org/docs/handbook/intro.html)
+![React](https://facebook.github.io/create-react-app/docs/getting-started)
+![ESLint](https://eslint.org/docs/latest/user-guide/getting-started)
+![Git hooks](https://git-scm.com/docs/githooks)
+![Husky](https://typicode.github.io/husky/#/)
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
-
 
 ## Getting Started
 
@@ -58,21 +60,25 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 ### Setup
+
 Fork the repo on GitHub to your personal account. Click the Fork button on the Team-Berlin-React page.
 
 Clone the repository. Click the green "Clone or download" button and copy the url. Run `git clone https://github.com/SpaceyaTech/Team-Berlin-React.git` in your Terminal.
 
 ### Install
+
 Run `npm install` in your terminal.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Usage
+
 Run `npm start` in your terminal.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Run tests
+
 Run `npm test` in your terminal.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
@@ -80,7 +86,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### Deployment
 
 See this section for more information: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
 
 ## 🤝 Contributing
 
@@ -92,27 +97,29 @@ Contributions, issues, and feature requests are welcome!
 
 3. Once you have done this, create a new branch. You should make a branch name that is short, descriptive, and unique. Some examples of good branch names are `create-header-component`, `docs-cleanup`, and `fix-footer-component`. Some examples of bad branch names are `feature`, `fix`, and `patch`. The branch name choice is not too important, so don't stress over it, but it is what people will use to reference your changes if they want to pull them down on their own computers to test them, so a good name will make it easier for others to understand what your branch does. In this example, the branch name is `fix-footer-component`.
 
-  To create the branch, run `git checkout -b branch-name`(replace branch-name with the branch name you chose). This will create a new branch and check it out. You can verify this with git status.
+To create the branch, run `git checkout -b branch-name`(replace branch-name with the branch name you chose). This will create a new branch and check it out. You can verify this with git status.
 
 4. Make your changes and commit them. Once you have created your branch, make your changes and commit them. Remember to keep your commits atomic, that is, each commit should represent a single unit of change. Also, remember to write helpful commit messages, so that someone can understand what the commit does just from reading the message without having to read the diff.
 
-  For example, at the command line, this might look like
-  ```
-  git add filename [filename ...]
-  git commit -m "your commit message"
+For example, at the command line, this might look like
+
 ```
-5. Rebase your branch on `pre-dev`. Use the following command `git pull origin  --rebase pre-dev`
+git add filename [filename ...]
+git commit -m "your commit message"
+```
+
+5. Rebase your branch on `pre-dev`. Use the following command `git pull origin --rebase pre-dev`
 
 6. Push up your changes. Do this by running `git push origin branch-name`
 
 7. Make a pull request.
-Enter a descriptive title in the title field. This is very important, as it is what will show up in the pull request listing and in email notifications to the people in the repo. Pull requests with undescriptive titles are more likely to be passed by. If the pull request fixes an issue, I recommend putting the issue number in the pull request description, not the title. People generally do not know issues by number, so a pull request that is just titled "fix for issue #1234" is more likely to be passed by, as it is unclear what it does from the title.
+   Enter a descriptive title in the title field. This is very important, as it is what will show up in the pull request listing and in email notifications to the people in the repo. Pull requests with undescriptive titles are more likely to be passed by. If the pull request fixes an issue, I recommend putting the issue number in the pull request description, not the title. People generally do not know issues by number, so a pull request that is just titled "fix for issue #1234" is more likely to be passed by, as it is unclear what it does from the title.
 
-  If there is more description or discussion about the pull request than what fits in the title field use the description field.
+If there is more description or discussion about the pull request than what fits in the title field use the description field.
 
-  If the pull request fixes an issue, you can add "fixes #1234" (replace 1234 with the actual issue number) in the pull request description. This exact format, "fixes #1234" is important, as it will cause GitHub to automatically close the issue when the pull request is merged.
+If the pull request fixes an issue, you can add "fixes #1234" (replace 1234 with the actual issue number) in the pull request description. This exact format, "fixes #1234" is important, as it will cause GitHub to automatically close the issue when the pull request is merged.
 
-  Once you are done, click the "create pull request" button.
+Once you are done, click the "create pull request" button.
 
 8. Pushing additional changes. Once you have created the pull request, it will likely be reviewed and some additional fixes will be necessary. Do not create a new pull request. Rather, simply make more commits to your branch and push them up as in steps 4, 5 and 6. They will be added to the pull request automatically.
 
