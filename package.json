@@ -74,7 +74,6 @@
   "bugs": {
     "url": "https://github.com/SpaceyaTech/Team-Berlin-React/issues"
   },
-  "homepage": "https://github.com/SpaceyaTech/Team-Berlin-React#readme",
   "lint-staged": {
     "*.{js,ts,tsx}": [
       "eslint --quiet --cache --fix"
