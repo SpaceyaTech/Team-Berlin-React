@@ -8,25 +8,51 @@ const Navbar = () => {
         <div className="flex items-center flex-shrink-0 text-white mr-6">
           <img src={headerLogo} alt="..." />
         </div>
-        <div className="text-sm">
+        <div className="text-2xl">
           <a
             href="#responsive-header"
-            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 hover:text-white mr-4"
+            className="block mt-4 lg:inline-block lg:mt-0 text-white-200  mr-6"
           >
             Home
           </a>
           <a
             href="#responsive-header"
-            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 hover:text-white mr-4"
+            className="block mt-4 lg:inline-block lg:mt-0 text-white-200  mr-6"
           >
-            About Us
+            Forums
           </a>
           <a
             href="#responsive-header"
-            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 hover:text-white"
+            className="block mt-4 lg:inline-block lg:mt-0 text-white-200  mr-6 "
           >
-            Forum
+            Events
           </a>
+          <a
+            href="#responsive-header"
+            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 text-secondaryGreen mr-6"
+          >
+            Blogs
+          </a>
+          <a
+            href="#responsive-header"
+            className="block mt-4 lg:inline-block lg:mt-0 text-white-200  mr-6"
+          >
+            Jobs
+          </a>
+          <a
+            href="#responsive-header"
+            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 "
+          >
+            About Us
+          </a>
+        </div>
+        <div>
+          <button className="bg-transparent  text-secondaryGreen font-semibold  py-2 px-4 border  rounded mr-4">
+            Login
+          </button>
+          <button className="bg-secondaryGreen text-primaryWhite font-semibold  py-2 px-4 border  rounded">
+            Sign In
+          </button>
         </div>
       </nav>
     </div>
