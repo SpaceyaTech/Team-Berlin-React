@@ -1,6 +1,6 @@
 import * as React from "react";
 import "./App.css";
-import SignInComponent from "./components/sign-in-component";
+import SignInComponent from "./components/signInComponent";
 
 function App() {
     return (

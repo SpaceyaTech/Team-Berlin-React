@@ -1,8 +1,8 @@
-import React from "react";
-import "./sign-in-component.css"
+import * as React from 'react';
+import "./signInComponent.css"
 
 // @ts-ignore
-import image from "./assets/appLogo.png";
+import image from "../assets/appLogo.png";
 import {FcGoogle} from "@react-icons/all-files/fc/FcGoogle";
 import {FaFacebookF} from "@react-icons/all-files/fa/FaFacebookF";
 import {BsEyeSlash} from "@react-icons/all-files/bs/BsEyeSlash";
@@ -23,7 +23,7 @@ const SignInComponent = () => {
                             <div className="username">
                                 <label>
                                     <input className="sign-inInputs" type="text" name="name"
-                                           placeholder="Username Or Email adress"/>
+                                           placeholder="Username Or Email address"/>
                                 </label>
                             </div>
                             <div className="password">
@@ -43,19 +43,19 @@ const SignInComponent = () => {
                             </div>
                             <div className="horizontalLine">
                                 <hr/>
-                                <div className="OR">OR</div>
+                                <div className="textBackground">OR</div>
                             </div>
                         </div>
 
                     </div>
                     <div>
-                        <button className="loginGoogle">
+                        <button className="loginIcon loginGoogle">
                             <span className="googleLogo"><FcGoogle/></span>
                             Login with Google
                         </button>
                     </div>
                     <div>
-                        <button className="loginFacebook"><span className="fbLogo"><FaFacebookF/></span>
+                        <button className="loginIcon loginFacebook"><span className="fbLogo"><FaFacebookF/></span>
                             Login with Facebook
                         </button>
 
