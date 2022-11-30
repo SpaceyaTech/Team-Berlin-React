@@ -7,7 +7,7 @@ export default function SignUpPage() {
         <div className="flex w-9/12 h-10/12 bg-[#FFFFFF] mx-auto">
           <div className="rt-container w-1/2 bg-[#03A47E] flex justify-center items-center">
             <div className="flex justify-center items-center ">
-              <img className="w-2/3 h-3/5 p-30" src="./SYTLOGO.png" />
+              <img className="w-2/3 h-3/5 p-30" src="./SYTLOGO.svg" />
             </div>
           </div>
 
@@ -47,19 +47,17 @@ export default function SignUpPage() {
             </div>
 
             <button className="googleSignUp-btn bg-white py-2 border w-full  h-14 rounded-lg mt-5 flex justify-center items-center  border-black font-poppins text-[#252533] text-center font-medium leading-8 text-xl">
-              {' '}
               <img className="w-12 h-12 mr-3" src="./googleLogo.svg" />
               Sign Up with Google
             </button>
             <button className="facebookSignUp-btn bg-[#001C52] py-2 border w-full h-14 rounded-lg mt-5 flex justify-center items-center border-black font-poppins text-[#FFFFFF] text-center font-medium leading-8 text-xl">
-              {' '}
               <img className="w-8 h-8 mr-3" src="./fb.svg" />
               Sign Up with Facebook
             </button>
 
             <p className="mt-5">
-              Already have an account?{' '}
-              <a href="#" className="hpver">
+              Already have an account?
+              <a href="#" className="ml-2 hover:text-blue-900">
                 Sign in
               </a>
             </p>
@@ -69,32 +67,3 @@ export default function SignUpPage() {
     </div>
   );
 }
-
-// export default function SignUpPage() {
-//   return (
-//     <div className='flex w-360'>
-//           <div className='bg-green-200'>
-//             <img src='./logo512.png'/>
-//           </div>
-
-//         <div className='flex flex-col items-center bg-white '>
-
-//             <h1>Sign up with your email address to continue with Space Ya Tech</h1>
-
-//             <form className='flex flex-col w-360   '>
-//               <input className='p-3 border border-solid border-black-100 w-full rounded-lg mt-5 w-700' placeholder='Full Name' type="text"/>
-//               <input className='p-3 border border-solid border-black-100 w-full rounded-lg mt-5' placeholder='Email' type="text"/>
-//               <input className='p-3 border border-solid border-black-100 w-full rounded-lg mt-5' placeholder='Password' type="password"/>
-//             </form>
-
-//             <div className='line-through '>---OR---</div>
-
-//             <button>Sign Up with Google</button>
-
-//             <button>Sign Up with Facebook</button>
-
-//             <a>Already have an account? Sign in</a>
-//         </div>
-//     </div>
-//   )
-// }
