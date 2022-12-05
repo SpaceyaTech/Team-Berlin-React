@@ -66,8 +66,8 @@ const Navbar: React.FC<NavbarProps> = () => {
           <span className="block w-8 h-1 bg-secondaryGreen"></span>
         </div>
       </nav>
-      <nav className={isVisible ? 'visible container' : 'hidden'}>
-        <div className=" align-middle">
+      <nav className={isVisible ? 'visible' : 'hidden'}>
+        <div>
           <a href="#responsive-header" className="block mt-4  text-darkText ">
             Home
           </a>
