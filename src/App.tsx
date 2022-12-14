@@ -1,15 +1,13 @@
-import * as React from 'react';
-import './App.css';
-import Navbar from './components/navbar';
-import SignUpPage from './components/signUpPage';
+import * as React from "react";
+import "./App.css";
+import SignInComponent from "./components/signInComponent";
 
 function App() {
-  return (
-    <div>
-      <Navbar />;
-      <SignUpPage />
-    </div>
-  );
+    return (
+        <div className="App">
+            <SignInComponent/>
+        </div>
+    );
 }
 
 export default App;
